@@ -1,8 +1,8 @@
 /*
-* TestMembership.java "driver/tester" file uses the Membership.java class to create potential members for the computer club
-* It will contain five potential members
-* It will utilize two "helper methods" - meetsRequirements() and output()
-* */
+Stephen Morrow
+CSC 201
+IDE 2
+*/
 
 public class TestMembership
 {
