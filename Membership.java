@@ -1,3 +1,9 @@
+/*
+Stephen Morrow
+CSC 201
+IDE 2
+*/
+
 public class Membership
 {
    private String name;
